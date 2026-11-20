@@ -1,0 +1,6 @@
+{
+  "name": "RunTracker Sheets",
+  "description": "Registro deportivo mobile-first para calcular ritmo al instante, analizar entrenamientos con IA y enviarlos directo a Google Sheets mediante Google Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
